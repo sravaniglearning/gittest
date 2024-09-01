@@ -8,3 +8,10 @@ In the “Name your file...” field, type the name of the folder followed by a 
 
 
 Add content to the file in the editor.
+Commit the New File
+
+Add a commit message describing the addition.
+Choose to commit directly to the main branch or create a new branch.
+
+
+Click “Commit new file” to create the folder and file in the repository.
